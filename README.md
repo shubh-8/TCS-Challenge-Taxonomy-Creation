@@ -10,3 +10,7 @@ Stack Exchange is a network of question-and-answer websites on topics in diverse
 Our task is to predict the tags (a.k.a. keywords, topics, summaries), given only the question text and its title and create hierarchy of tags. The dataset contains content from disparate stack exchange sites, containing a mix of both technical and non-technical questions.<br />
 <br />
 </p>
+### Problem Statemtent : Predict the tags based on the content of the questions posted on Stack Exchange sites and form taxonomy.
+
+#### Taxonomy Creation on StackExchange Tag Prediction Problem.ipynb is the ipython notebook which consists of the code.
+#### NB_model.sav is the saved MultinomialNB model.
