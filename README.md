@@ -21,5 +21,8 @@ It consist of the analysis part of the solution.
 It consist of the modelling part of the solution
 
 I have trained two models:
+
 __1. NB_model.sav__ is the saved MultinomialNB with OneVsRest Classifier model.
+
 __2. LR_model__ is the saved Logistic Regression with OneVsRest Classifier model.
+
